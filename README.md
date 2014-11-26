@@ -1,3 +1,3 @@
 The HTTP Hmac authentication component for UTipdMe.
 
-[![Build Status](https://travis-ci.org/UTipdMe/HmacAuth.svg?branch=master)](https://travis-ci.org/UTipdMe/HmacAuth)
+This is deprecated.  Please visit https://github.com/tokenly/hmac-auth for the currently maintained version.
